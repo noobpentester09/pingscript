@@ -1,0 +1,2 @@
+# pingscript
+Automate ping process
